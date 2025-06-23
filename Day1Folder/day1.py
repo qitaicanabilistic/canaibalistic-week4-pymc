@@ -55,7 +55,7 @@ def intro():
     print("computhink")
     print("if I had $2000, I will put it in my bank account and invest it later, when I am older ")
 # step 2
-greetings()
+intro()
 
 
     
