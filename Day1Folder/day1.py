@@ -45,7 +45,7 @@ print("I like to eat "+  food)
 # Task 6:
 def greetings():
     print("hello there")
-    print)
+    print("")
 
 
 ########################################################################
