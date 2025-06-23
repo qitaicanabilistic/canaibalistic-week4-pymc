@@ -50,6 +50,15 @@ def greetings():
 # step 2
 greetings()
 
+def intro():
+    print("my name is Qitai")
+    print("computhink")
+    print("if I had $2000, I will put it in my bank account and invest it later, when I am older ")
+
+
+
+    
+
 
 ########################################################################
 # Task 7:
