@@ -33,11 +33,11 @@ print(variable1+variable2)
 print(variable1*variable2)
 ########################################################################
 # Task 5:
-name="cannaibal"
-food="meat"
-print(name +" says I like "+ food)
-print("My name is "+  name)
-print("I like to eat "+  food)
+# name="cannaibal"
+# food="meat"
+# print(name +" says I like "+ food)
+# print("My name is "+  name)
+# print("I like to eat "+  food)
 
 
 
