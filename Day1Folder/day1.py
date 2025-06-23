@@ -47,7 +47,7 @@ def greetings():
     print("hello there")
     print("my name is lin qitai")
 
-
+# step2
 
 
 ########################################################################
