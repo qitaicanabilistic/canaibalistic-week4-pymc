@@ -27,10 +27,10 @@
 # print(animal3)
 ########################################################################
 # Task 4:
-variable1=45
-variable2=24
-print(variable1+variable2)
-print(variable1*variable2)
+# variable1=45
+# variable2=24
+# print(variable1+variable2)
+# print(variable1*variable2)
 ########################################################################
 # Task 5:
 # name="cannaibal"
