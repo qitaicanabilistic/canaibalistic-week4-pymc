@@ -67,7 +67,7 @@ def addition(num1, num2):
     print(num1+num2)
 
 addition(5 , 3)
-
+addition(243)
 
 ########################################################################
 # Additional exercises:
